@@ -1,3 +1,3 @@
 Rails.application.routes.draw do
-  get 'students/index'
+  get 'views/students/index'
 end
